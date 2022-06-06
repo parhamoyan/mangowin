@@ -429,3 +429,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Visual Studio 2015 cache/options directory
+.vs/
